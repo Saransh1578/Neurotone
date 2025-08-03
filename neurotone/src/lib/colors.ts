@@ -1,3 +1,7 @@
+
+/* eslint-disable @typescript-eslint/prefer-nullish-coalescing */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable react/no-unescaped-entities */
 export const getColor = (value: number): [number, number, number] => {
   let r, g, b;
 

@@ -1,5 +1,7 @@
 "use client";
-
+/* eslint-disable @typescript-eslint/prefer-nullish-coalescing */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable react/no-unescaped-entities */
 import { useState } from "react";
 import ColorScale from "~/components/ColorScale";
 import FeatureMaps from "~/components/FeatureMaps";

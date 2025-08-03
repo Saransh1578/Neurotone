@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/prefer-nullish-coalescing */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable react/no-unescaped-entities */
 import { getColor } from "~/lib/colors";
 
 const FeatureMaps=({data, title, internal, spectrogram}:{

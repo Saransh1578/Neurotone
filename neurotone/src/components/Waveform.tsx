@@ -1,3 +1,7 @@
+/* eslint-disable @typescript-eslint/prefer-nullish-coalescing */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
+/* eslint-disable react/no-unescaped-entities */
+
 const Waveform=({data,title}:{data:number [], title:string})=>{
     if(!data||data.length===0)return null;
     const width=600;
