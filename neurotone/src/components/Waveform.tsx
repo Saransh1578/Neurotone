@@ -30,7 +30,7 @@ const Waveform=({data,title}:{data:number [], title:string})=>{
     return (<div>
         <div className="flex h-full w-full flex-col">
             <div className="flex flex-1 items-center justify-center">
-                <svg viewBox={`0 0 ${width} ${height}`} preserveAspectRatio="xMidyMid meet" className="block max-h-[300px] max-w-full rounded border border-stone-200">
+                <svg viewBox={`0 0 ${width} ${height}`} preserveAspectRatio="xMidYMid meet" className="block max-h-[300px] max-w-full rounded border border-stone-200">
                     <path d={`M 0 ${centerY} H ${width}`} stroke="#e7e5e4" strokeWidth="1"/>
                     <path d={pathData} fill="none" stroke="#44403c" strokeWidth="1.5" strokeLinejoin="round" strokeLinecap="round"/>
                 </svg>
