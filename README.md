@@ -15,3 +15,8 @@ This project demonstrates the complete workflow: from data preprocessing and mod
 * Real-time Classification – Predicts audio classes on the fly with confidence scores.
 
 * Rich Visualizations – Explore internal CNN feature maps, input waveforms, and Mel spectrograms.
+
+### Demo
+[Neurotone](https://neurotone-one.vercel.app/)
+
+![Demo Screenshot]()
