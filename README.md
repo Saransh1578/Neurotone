@@ -19,4 +19,4 @@ This project demonstrates the complete workflow: from data preprocessing and mod
 ### Demo
 [Neurotone](https://neurotone-one.vercel.app/)
 
-![Demo Screenshot](Screenshot 2025-08-22 025056.png)
+![Demo Screenshot](Screenshot.png)
